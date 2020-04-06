@@ -2,7 +2,7 @@
 
 foresty.chan@gmail.com
 [Linked in](linkedin.com/foresty-chan-b21b83177)
-![image of me](https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/p960x960/12273779_1122981917713478_3021042673119288934_o.jpg?_nc_cat=105&_nc_sid=7aed08&_nc_ohc=aj-XAbgUH1gAX-jI1pt&_nc_ht=scontent-sea1-1.xx&_nc_tp=6&oh=7d2449298f0ccc638228d251e66a3fa5&oe=5EB04269)
+![image of me|700x700, 20%](https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/p960x960/12273779_1122981917713478_3021042673119288934_o.jpg?_nc_cat=105&_nc_sid=7aed08&_nc_ohc=aj-XAbgUH1gAX-jI1pt&_nc_ht=scontent-sea1-1.xx&_nc_tp=6&oh=7d2449298f0ccc638228d251e66a3fa5&oe=5EB04269)
 #Summary
 
 >Hello I am an undergraduate student studying geographic information systems. I'm excited to improve my skills in GIS.
