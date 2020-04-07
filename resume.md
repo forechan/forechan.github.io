@@ -1,6 +1,6 @@
 # Foresty Chan
 
-foresty.chan@gmail.com
+[email](foresty.chan@gmail.com)
 [Linked in](linkedin.com/foresty-chan-b21b83177)
 <img src ="https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/p960x960/12273779_1122981917713478_3021042673119288934_o.jpg?_nc_cat=105&_nc_sid=7aed08&_nc_ohc=aj-XAbgUH1gAX-jI1pt&_nc_ht=scontent-sea1-1.xx&_nc_tp=6&oh=7d2449298f0ccc638228d251e66a3fa5&oe=5EB04269" width="200" height="180">
 
